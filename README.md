@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @spionjaak
-- 👀 I’m interested in backend
-- 🌱 I’m currently learning python & C#
 - 📫 spionjaak@gmail.com
 
 
